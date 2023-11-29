@@ -14,7 +14,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 ### Reach me
 <a href="https://instagram.com/zdn_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zdn_ng" height="30" width="40" /></a>
 
-# My Studies
+# :notebook_with_decorative_cover: My Studies
 **Primary School**
 - SK Taman Sri Andalas
 - Head Of Prefect (2016)
@@ -52,7 +52,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 <a href="https://www.w3schools.com/sql/" target="blank"><img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <br />
 
-# Stat
+# :bar_chart: Stats
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AziidanNg" alt="GitHub Streak" /></a>
 
 
