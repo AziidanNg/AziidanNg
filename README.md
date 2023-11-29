@@ -37,7 +37,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 - Programming
 
 # Recommended
-**Course**
+### Course
 🌱 I’m currently pursuing my tertiary study at University of Technology Malaysia in Bachelor Of Computer Science (Computer Networks And Security) With Honours. I just entered the University and currently in the first semester. In this semester I study about
 - Discrete Structure
 - Programming Technique 1
