@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # [Aziidan Ng](https://github.com/AziidanNg)
 ### My Biodata
 - Name : Muhammad Aziidan Bin Muhd Azlan Ng
@@ -27,6 +25,8 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 - President of Pal Leader Computer Science (2022)
 - EXCO of Sekretariat Rukun Negara SRN (2022)
 - Secretary Lajnah Economy and Welfare As-Saff (2022)
+
+🌱 I’m currently pursuing my tertiary study at University of Technology Malaysia in Bachelor Of Computer Science (Computer Networks And Security) With Honours
 
 <!--
 **AziidanNg/AziidanNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
