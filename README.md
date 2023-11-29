@@ -30,6 +30,15 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 - EXCO of Sekretariat Rukun Negara SRN (2022)
 - Secretary Lajnah Economy and Welfare As-Saff (2022)
 
+**Degree**
+
+🌱 I’m currently pursuing my tertiary study at University of Technology Malaysia in Bachelor Of Computer Science (Computer Networks And Security) With Honours. I just entered the University and currently in the first semester. In this semester I study about
+- Discrete Structure
+- Programming Technique 1
+- Technology And Information System
+- Digital Logic
+- Integrity And Anti-Corruption
+
 # 🧰 Skills
 <a href="https://www.w3schools.com/java/" target="blank"><img align="left" alt="https://www.w3schools.com/java/" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -43,12 +52,6 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 <a href="https://www.w3schools.com/sql/" target="blank"><img align="left" alt="Sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <br />
 
-🌱 I’m currently pursuing my tertiary study at University of Technology Malaysia in Bachelor Of Computer Science (Computer Networks And Security) With Honours. I just entered the University and currently in the first semester. In this semester I study about
-- Discrete Structure
-- Programming Technique 1
-- Technology And Information System
-- Digital Logic
-- Integrity And Anti-Corruption
 
 <!--
 **AziidanNg/AziidanNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
