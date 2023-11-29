@@ -55,7 +55,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 
 # :bar_chart: Stats
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AziidanNg" alt="GitHub Streak" /></a>
-![Aziidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AziidanNg&show_icons=true&theme=dark)
+![Aziidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AziidanNg&show_icons=true&theme=radical)
 
 
 <!--
