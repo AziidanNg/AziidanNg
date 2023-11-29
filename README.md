@@ -26,8 +26,6 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 - EXCO of Sekretariat Rukun Negara SRN (2022)
 - Secretary Lajnah Economy and Welfare As-Saff (2022)
 
-🌱 I’m currently pursuing my tertiary study at University of Technology Malaysia in Bachelor Of Computer Science (Computer Networks And Security) With Honours
-
 ### Skills
 - Microsoft SQL Server
 - SQL
@@ -37,6 +35,15 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 - Github
 - HTML Coding
 - Programming
+
+# Recommended
+**Course**
+🌱 I’m currently pursuing my tertiary study at University of Technology Malaysia in Bachelor Of Computer Science (Computer Networks And Security) With Honours. I just entered the University and currently in the first semester. In this semester I study about
+- Discrete Structure
+- Programming Technique 1
+- Technology And Information System
+- Digital Logic
+- Integrity And Anti-Corruption
 
 <!--
 **AziidanNg/AziidanNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
