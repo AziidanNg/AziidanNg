@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# [Aziidan Ng](http://github.com/Dr-Khatib/PT1-SESJ1013/tree/main/Students/AziidanNg#Aziidan-Ng-)
-### [My Biodata](http://github.com/Dr-Khatib/PT1-SESJ1013/tree/main/Students/AziidanNg#My-Biodata-)
+# [Aziidan Ng](https://github.com/AziidanNg)
+### [My Biodata](https://github.com/AziidanNg)
 - Name : Muhammad Aziidan Bin Muhd Azlan Ng
 - Age : 19
 - Born : 12/05/2004
