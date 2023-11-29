@@ -60,7 +60,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 # :heartpulse: Bored
 **Current mood**
 
-<img src="https://github.com/AziidanNg/AziidanNg/blob/main/Source/hachioji-naoto-naoto.gif" align="center">
+<img src="https://github.com/AziidanNg/AziidanNg/blob/main/Source/anya-forger-smile.gif" align="center">
 
 
 
