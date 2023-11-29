@@ -59,7 +59,7 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 
 # :heartpulse: Bored
 **Current mood**
-<img src="https://tenor.com/en-GB/view/hachioji-naoto-naoto-senpai-blushing-blush-gif-22062553" align="right">
+<img src="https://github.com/AziidanNg/AziidanNg/blob/main/Source/hachioji-naoto-naoto.gif" align="right">
 
 
 
