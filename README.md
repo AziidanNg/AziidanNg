@@ -1,4 +1,5 @@
 # [Aziidan Ng - Student in Computer Networks And Security](https://github.com/AziidanNg)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 ### My Biodata
 - Name : Muhammad Aziidan Bin Muhd Azlan Ng
 - Age : 19
