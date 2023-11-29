@@ -28,6 +28,16 @@ Hiiii! As you can see above my name is Muhammad Aziidan Bin Muhd Azlan Ng and yo
 
 🌱 I’m currently pursuing my tertiary study at University of Technology Malaysia in Bachelor Of Computer Science (Computer Networks And Security) With Honours
 
+### Skills
+-Microsoft SQL Server
+-SQL
+-Python
+-CSS
+-Java
+-Github
+-HTML Coding
+-Programming
+
 <!--
 **AziidanNg/AziidanNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
