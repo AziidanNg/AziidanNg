@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F.svg)](https://instagram.com/zdn_ng)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:aziidanng@gmail.com)
 
-I am a Bachelor of Computer Science (Computer Networks & Security) Honours student at University Technology Malaysia (UTM). Originally from Klang, Selangor, I am passionate about bridging the gap between configuring secure IT infrastructures and engineering comprehensive web applications. 
+I am a Bachelor of Computer Science (Computer Networks & Security) Honours student at University Technology Malaysia (UTM). Originally from Klang, Selangor. I am passionate about bridging the gap between configuring secure IT infrastructures and engineering comprehensive web applications. 
 
 When I'm not coding or studying, you can usually find me watching anime or playing tennis!
 
